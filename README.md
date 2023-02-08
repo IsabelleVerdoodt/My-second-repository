@@ -1,3 +1,3 @@
 # My-second-repository  
-Author Isabelle Verdoodt
-city Antwerpen
+**Author** Isabelle Verdoodt  
+**City** Antwerpen
